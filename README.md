@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hi there!
 
-<!--
-**jkpe/jkpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Solutions Engineer at [DigitalOcean](https://www.digitalocean.com), passionate about creating proof of concepts and demos with our cloud products. 
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **💼 Role:** Solutions Engineer at DigitalOcean
+- **🔧 Hobbies:** Home automation with [Home Assistant](https://www.home-assistant.io/)
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/pearcejack/)
+
+Thanks for stopping by! 🌟
