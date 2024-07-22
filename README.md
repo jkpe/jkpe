@@ -9,6 +9,6 @@ I'm a Solutions Architect at [DigitalOcean](https://www.digitalocean.com), passi
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/pearcejack/)
+- **LinkedIn:** [/pearcejack](https://www.linkedin.com/in/pearcejack/)
 
 Thanks for stopping by! 🌟
