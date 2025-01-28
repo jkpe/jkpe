@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a Solutions Architect at [DigitalOcean](https://www.digitalocean.com), passionate about Home Automation and Cloud Architecture.
+I'm a Solutions Architect at [DigitalOcean](https://www.digitalocean.com), passionate about Artificial intelligence, Home Automation and Cloud Architecture.
 
 ## 🌟 About Me
 
