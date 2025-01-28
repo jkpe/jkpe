@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a Solutions Architect at [DigitalOcean](https://www.digitalocean.com), passionate about creating proof of concepts and demos with cloud products. 
+I'm a Solutions Architect at [DigitalOcean](https://www.digitalocean.com), passionate about Home Automation and Cloud Architecture.
 
 ## 🌟 About Me
 
